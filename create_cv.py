@@ -152,6 +152,7 @@ story.append(Paragraph(
     "<b>Technical Environment:</b> .NET Core, C#, SQL Server, Windows Forms/WPF, computational geometry, algorithm optimization", bullet_style))
 story.append(Spacer(1, 4))
 
+# Page break
 story.append(PageBreak())
 
 # Consol
